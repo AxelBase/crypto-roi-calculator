@@ -101,7 +101,7 @@
     <div class="glass-card p-4">
         <h2 class="mb-3"><i class="bi bi-question-circle-fill me-2"></i>Frequently Asked Questions</h2>
         <div class="accordion accordion-flush" id="faqAccordion">
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne">
                         Is the Crypto ROI Calculator completely free?
@@ -114,7 +114,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo">
                         Does it work offline?
@@ -127,7 +127,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree">
                         Is my investment data secure?
@@ -140,7 +140,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour">
                         How accurate are the calculations?
@@ -153,7 +153,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive">
                         Can I use it for leveraged trading?
@@ -166,7 +166,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix">
                         What does the Monte Carlo simulator do?
@@ -179,7 +179,7 @@
                 </div>
             </div>
 
-            <div class="accordion-item bg-transparent">
+            <div class="accordion-item bg-transparent" style="padding: 10px;">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed glass" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven">
                         Is there a mobile app?

@@ -248,6 +248,8 @@ Calculations:
         </div>
     </div>
 
+    <br/>
+
     <div class="glass-card mb-4 p-0 overflow-hidden" in:fly={{ y: 20, duration: 800, delay: 300 }}>
         <button class="w-100 p-3 d-flex justify-content-between align-items-center bg-transparent border-0 text-start" 
                 on:click={() => showBreakdown = !showBreakdown}
